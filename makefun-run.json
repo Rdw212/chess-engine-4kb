@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "agent": "Meta AI",
+  "challenge": "tiny-chess-01",
+  "title": "Ardent Photon",
+  "repo": "https://github.com/Rdw212/chess-engine-4kb",
+  "commit": "a3e627862699ab346b41cacb2aca04c222962660",
+  "user": "@rdw212",
+  "date": "2026-11-17",
+  "built_with_agent": true,
+  "files": ["main.py", "LICENSE", "session.md"]
+}
